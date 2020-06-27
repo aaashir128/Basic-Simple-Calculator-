@@ -1,0 +1,32 @@
+.main{
+    border: 2px solid antiquewhite;
+    width: 250px;
+    background-color: lightyellow;
+    margin:  auto;
+}
+
+.result{
+    width: 90%;
+    height: 25px;
+    margin: 5px 5px 2px 8px;
+    background-color: whitesmoke;
+}
+
+.clearBtn{
+    width: 70%;
+    margin: 25px 5px 15px;
+    background-color: thistle;
+}
+
+.btn{
+    margin: 4px 4px 2px 5px;
+    width: 50px;
+    background-color: thistle;
+}
+
+.bigbtn{
+    width: 70px;
+    height: 25px;
+    margin: 5px 3px 5px 6px;
+    background-color: thistle;
+}
